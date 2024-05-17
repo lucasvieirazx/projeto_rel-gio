@@ -1,2 +1,2 @@
-# projeto_rel-gio
-Repositório do meu projeto_relógio utilizando python
+# projeto_relogio
+Neste projeto, utilizei as bibliotecas 'tkinter' e  'time' da linguagem 'Python' para criar um relógio.
